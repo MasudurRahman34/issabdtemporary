@@ -1,0 +1,24 @@
+[29-Nov-2022 18:22:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/jistrsxw/rakhalian.com/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/jistrsxw/rakhalian.com/config/cache.php on line 20
+[29-Nov-2022 18:35:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/jistrsxw/rakhalian.com/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/jistrsxw/rakhalian.com/config/cache.php on line 20
+[11-Jan-2023 18:51:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/jistrsxw/rakhalian.com/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/jistrsxw/rakhalian.com/config/cache.php on line 20
+[25-Jan-2023 01:09:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/jistrsxw/rakhalian.com/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/jistrsxw/rakhalian.com/config/cache.php on line 20
+[06-Mar-2023 17:44:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/jistrsxw/rakhalian.com/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/jistrsxw/rakhalian.com/config/cache.php on line 20
+[07-Mar-2023 08:45:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/jistrsxw/rakhalian.com/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/jistrsxw/rakhalian.com/config/cache.php on line 20
